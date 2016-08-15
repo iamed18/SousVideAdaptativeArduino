@@ -69,9 +69,9 @@
 
 
 // ------------------------- LIBRARIES
-#include <LedControl.h>
-#include <OneWire.h>
-#include <DallasTemperature.h>
+#include <LedControl.h>          // http://playground.arduino.cc/Main/LedControl
+#include <OneWire.h>             // https://github.com/PaulStoffregen/OneWire
+#include <DallasTemperature.h>   // https://github.com/milesburton/Arduino-Temperature-Control-Library
 
 
 // ------------------------- CONSTANTS
